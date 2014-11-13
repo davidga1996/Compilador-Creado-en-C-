@@ -1,0 +1,12 @@
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\bin\Debug\ChumpePP.exe.config
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\bin\Debug\ChumpePP.exe
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\bin\Debug\ChumpePP.pdb
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.Form1.resources
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.Properties.Resources.resources
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.csproj.GenerateResource.Cache
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.exe
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.pdb
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.ChumpeDesktop.resources
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ColorSyntaxEditor.FlickerFreeRichEditTextBox.resources
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.FormMostrarErrores.resources
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\ChumpePP\ChumpePP\obj\Debug\ChumpePP.csprojResolveAssemblyReference.cache
